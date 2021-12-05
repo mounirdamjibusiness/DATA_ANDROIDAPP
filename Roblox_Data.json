@@ -110,7 +110,109 @@
 		"description": "The M1887 is deadly itself, and now with this skin, it’s gotten even more lethal. This shotgun was introduced a few months ago and it became an instant hit among the players. It’s so because of its insane range and firepower. This skin offers an accuracy boost which does help but is hardly noticeable.",
 		"img": "https://gamingonphone.com/wp-content/uploads/2020/07/1594919799021.png"
 	}
+	,
+{
+  		"name": "Shotguns",
+		"description": "This Incubator skin is from the latest m1014 skin collection to be added in the game under the ‘Apocalyptic‘ series, part of the ‘Rampage 2.0‘. The skin, with its rate of fire, serves to be a very dangerous weapon against all sorts of other short-range weapons. This gun skin offers no damage boosts and might cost you heavily if you end up missing a few shots. Though, it makes drag headshots relatively easier.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/07/ff1-removebg-preview.png"
+	}
+ {
+  		"name": "Assault Rifles",
+		"description": "The Lively Beast skin suddenly became one of the most lethal ones post an update from the past in which the Devs upgraded the default stats of the XM8 and the AN94. The insane rate of fire and considerable damage make this skin one of the best, if not the best AR skin.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/07/1594919305604.png"
+	}	,
+{
+  		"name": "Apocalyptic Green m1014",
+		"description": "Another skin from the ‘Apocalyptic‘ Incubator series, it is really meant to nullify the m1014’s biggest setback: range. With the increased rate of fire, it just becomes even more deadly.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/07/ff2-removebg-preview.png"
+	}	,
+{
+  		"name": "Megalodon Alpha (Scar)",
+		"description": "The Megalodon Alpha is an upgradable Evo gun skin. It increases the damage rate and doubles the fire rate of the Scar. However, it decreases the reloading speed of the weapon.",
+		"img": "https://staticg.sportskeeda.com/editor/2021/05/0e203-16207040099421-800.jpg"
+	}	,
+{
+  		"name": " Unicorn's Rage (Golden Era) (AK)",
+		"description": "The AK is already one of the most powerful weapons in Free Fire in terms of damage stats.",
+		"img": "https://staticg.sportskeeda.com/editor/2021/05/48a34-16207040443163-800.jpg"
+	}	,
+{
+  		"name": " Blue Flame Draco (AK)",
+		"description": "The Blue Flame Draco AK skin is an Evo weapon skin that can be leveled up. The skin can be upgraded up to level seven.",
+		"img": "https://staticg.sportskeeda.com/editor/2021/04/a9519-16191550626445-800.jpg"
+	}	,
+{
+  		"name": "Duke Swallowtail (Butterfly) AWM",
+		"description": "Butterfly AWM is considered one of the best weapon skins in the Free Fire community. The skin has a bright red outlook and eye-catching esthetics. Upon equipping the skin, the firing rate of the weapon and ammunition capacity of the weapon gets boosted. However, players have to be satisfied with a slower reload speed.",
+		"img": "https://staticg.sportskeeda.com/editor/2021/10/a3099-16350127445037-1920.jpg"
+	}	,
+{
+  		"name": "MAG-7",
+		"description": "With mid-range power and high fire rate, the MAG-7 is more agile than most shotguns",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/weapon/MAG7.png"
+	}	,
+{
+  		"name": "VECTOR",
+		"description": "The Vector is the first Akimbo weapon in Free Fire, it has a short effective range, but devastating power in close range. “Akimbo” - Players can hold one Vector in each hand.",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/weapon/vector.png"
+	}	,
+{
+  		"name": "WOODPECKER",
+		"description": "The M21 Woodpecker uses AR ammo, has high armor piercing abilities, and is known to be precise and deadly",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/weapon/Woodpecker_2.png"
+	}	,
+{
+  		"name": "M82B",
+		"description": "Anti-vehicle sniper rifle has a lot of additional damage to the vehicle and ice wall, and the shooting can penetrate the ice wall",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/official/PW_BM82B_Render.png"
+	}
+{
+  		"name": "HAND-CANNON",
+		"description": "Small grenade gun occupying the secondary weapon slot, be careful, his power is as deadly",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/official/SW_Hand_Cannon_Render.png"
+	}	,
+{
+  		"name": "HEATGUN",
+		"description": "High tech weapon that uses energy to fire. The gun overheats if players use it for too long.",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/official/PW_Superheat_Gun_Render.png"
+	}	,
+{
+  		"name": "THOMPSON",
+		"description": "Large-caliber double-shot shotguns are equally threatening to enemies at close range",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/official/PW_Thompson_Render.png"
+	}	,
+{
+  		"name": "M1887",
+		"description": "Large-caliber double-shot shotguns are equally threatening to enemies at close range",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/official/M1887.png"
+	}	,
+{
+  		"name": "XM8",
+		"description": "Comes with an attached 2x scope and stable for gunning down enemies at the mid-range.",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/official/2e9c951ed880XM8.png"
+	}	,
+{
+  		"name": "TREATMENT GUN",
+		"description": "The Treatment Gun deals damage against enemies and heals your allies.",
+		"img": "https://freefiremobile-a.akamaihd.net/common/web_event/official/d347e7794082HealingGun.png"
+	}	,
+{
+  		"name": "Valentine AK",
+		"description": "Valentine’s AK is very colourful and by far the most appealing AK gun skin in free Fire. It depicts love as the gun is Pink in colour with added blue shades to it. Pink heart bubbles keep on emitting from it. The gun gives a damage boost and decreases the magazine of the gun.",
+		"img": "https://firstsportz.com/wp-content/uploads/2021/06/ak-valentine-1536x864.jpg"
+	}	,
+{
+  		"name": "Kord-Killspark Shinobi",
+		"description": "Another great weapon skin that players can get in Free Fire is the Killspark Shinobi skin for the Kord. The weapon skin is purple with lightning bolts coming out of it.",
+		"img": "https://staticg.sportskeeda.com/editor/2021/11/b5fd3-16375646014285-1920.jpg"
+	}	,
+{
+  		"name": "AWM-Swallowtail",
+		"description": "AWM Swallowtail skin is considered one of the coolest Free Fire skins. Players can unlock the skin in a loot crate that costs 40 diamonds. Upon upgrading the skin to its maximum level, players can unlock butterfly-like wings that look astonishing.",
+		"img": "https://staticg.sportskeeda.com/editor/2021/11/98b32-16375646944696-1920.jpg"
+	}
 	]
+	
 	
 
 	
