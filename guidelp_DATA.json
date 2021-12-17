@@ -1,7 +1,159 @@
-[
+[{
+		"name": "Rocket League Sideswipe: Tips and tricks for beginners",
+		"description": "Rocket League has seen exponential growth since it went free-to-play in 2020, even though the game has been around for more than five years. This means the game has a rather wide collection when it comes to cosmetics that players can use to decorate their vehicles.",
+		"img": "https://cdn1.dotesports.com/wp-content/uploads/2020/11/10142826/rocket-league-next-gen.jpg"
+	},
 {
-"name": "",
-"description": "",
-"img": ""
-},
-]
+		"name": "Don’t be a toxic player",
+		"description": "I mean, we understand that flexing on your opponents can be part of a player’s personality, but it is still just a game and everything should be left on the field, even the rivalry. ",
+		"img": "https://static.wikia.nocookie.net/rocketleague/images/d/df/Sideswipe_promo_image_1.png/revision/latest/scale-to-width-down/1000?cb=20210327012339"
+	},
+{
+		"name": "Five tips and tricks for Rocket League Sideswipe",
+		"description": "This is especially true while your cruising through the lower tiers of the game, from Bronze to the early part of Gold, most players rely on power more than finesse so don’t be scared to use your shadow defence skills, lay back and wait for the opportunity to get a good open shot at the net.",
+		"img": "https://www.ginx.tv/uploads2/Rocket_League/Sideswipe/RL_Sideswipe_Tips_and_Tricks_2.jpg?ezimgfmt=rs:708x398/rscb5/ng:webp/ngcb5"
+	},
+{
+		"name": "Jump",
+		"description": "This is introduced at the start of the game and is pretty self explanatory but just to be as comprehensive as possible, pressing the jump button launches you into the air while maintaining your momentum. You're using this a lot, I hope.",
+		"img": "https://i.redd.it/8qa8wlttf9581.jpg"
+	},
+{
+		"name": "Network",
+		"description": "Set the network input buffer ideally to moderate. In case you face any in-game glitch, increase it further. However setting the Network Input Buffer high may sometimes result in your in-game touch controls getting sluggish and non-responsive. In that case you have to lower the Network Input Buffer. We suggest you to ideally set it to Moderate.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2021/12/Rocket-League-network-setings-1024x461.jpg"
+	},
+{
+		"name": "Audio",
+		"description": "Switch to the audio settings page by tapping on the Audio tab below. Up next, you have to set the gameplay volume and music volume as per your preference. We would recommend you to keep them at default 100% for the best experience. Also, keep the music always on, because the game has a really cool playlist to hear. Keep the auto-update listening mode turned on. We would suggest you use earphones for the best experience.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2021/12/Rocket-League-audio-settings-1024x461.jpg"
+	},
+{
+		"name": "Graphics",
+		"description": "Finally, we head to the Graphics settings for which we need to go to the Graphics Tab. Set the Quality Presets to High to enjoy enhanced visuals. Set the Max FPS to default 30. Do not tamper with the frame rate. Also, do not forget to keep the Reduce FPS in the menu box checked to save the device battery.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2021/12/Rocket-League-graphics-settings-1024x461.jpg"
+	},
+{
+		"name": "Red shot (the power shot)",
+		"description": "To do it: front flip into the ball (arrow + jump*2) >> hit the ball with the nose of your car >> ball will glow the blue+pink color",
+		"img": "https://www.bignox.com/blog/wp-content/uploads/2021/12/red.jpg"
+	},
+{
+		"name": "Purple shot (the defensive shot)",
+		"description": "To do it: face the underside of your car towards the ball >> let go of your left joystick >> jump (as soon as you let go of your left joystick)",
+		"img": "https://www.bignox.com/blog/wp-content/uploads/2021/12/purple.jpg"
+	},
+{
+		"name": "Gold shot (the backward shot)",
+		"description": "To do it: aim your car away from the ball >> flip (arrow + jump*2) in that direction (basically the opposite of the purple shot)",
+		"img": "https://www.bignox.com/blog/wp-content/uploads/2021/12/gold.jpg"
+	},
+{
+		"name": "League Sideswipe Ranks ",
+		"description": "There are a number of Rocket League Sideswipe ranks, ranging from lowly Bronze to the not-at-all OTT Grand Champion, and you can earn these by playing matches and winning. By the same token, losing matches will cause you to get demoted in both division and rank.",
+		"img": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/b5fa5351328175bc04ba1a53329f8a85cd366328-1920x1080.jpg?rect=0,1,1920,1078&w=700&h=393&auto=format"
+	},
+	{
+		"name": "League Sideswipe Air Roll",
+		"description": "As you'd expect from a simplified mobile version of the original, performing a Rocket League Sideswipe air roll is easier than ever. Its scaled-down arenas, higher goals, and automatically regenerating boost make the Rocket League Sideswipe air roll trick is an essential skill. And we're going to teach you how to master it.",
+		"img": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/7b1e9864d36a1a9d0260dfc61aac9310842b5a55-1564x880.jpg?rect=0,0,1564,878&w=700&h=393&auto=format"
+	},{
+		"name": "perform the death-defying Rocket League Sideswipe",
+		"description": "In Rocket League Sideswipe, your booster fuel automatically regenerates while you're on the ground, making it a lot easier to battle with other players in the air. At the same time, this is a side-scrolling game, meaning that you have one less dimension to take into account than with the original version. All of this serves to make aerial maneuvering significantly easier.",
+		"img": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/dab158b945dfafce3bb6dde0080a62bf80c4749c-1920x1080.jpg?rect=0,1,1920,1078&w=700&h=393&auto=format"
+	},{
+		"name": "Rocket League Season 4 Rocket Pass Rewards",
+		"description": "Season 4 of Psyonix’s explosive vehicular soccer game Rocket League has officially arrived. Today marks the release of their tenth battle pass or the fourth since the game went free-to-play last year. There are 70 tiers to work through this time around and two tracks to pick from, including Free and Premium. Let’s take a look at the Rocket League Season 4 Rocket Pass Rewards.",
+		"img": "https://img.gamerjournalist.com/spai/w_1092+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2021/08/Rocket-League-Season-4.jpg"
+	},{
+		"name": "How to Do Freeplay in Rocket League Sideswipe",
+		"description": "To do Freeplay in Rocket League Sideswipe, go to the main menu, select Training Mode, and go to Freeplay.",
+		"img": "https://img.gamerjournalist.com/spai/w_1092+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2021/12/Rocket-League-Sideswipe-Training-Mode.png"
+	},{
+		"name": "Rocket League Season 4 Rocket Pass Premium Rewards",
+		"description": "As for the rewards, the ultimate Tier 70 reward for the Rocket League Season 4 Rocket Pass Premium track is the Outlaw GXT. We also have plenty of wild west-themed items along the way, including wheels, decals, trails, and more. You can find a full list of the Rocket League Season 4 Rocket Pass rewards broken down by Premium and Free down below.",
+		"img": "https://img.gamerjournalist.com/spai/w_1092+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2021/08/Rocket-League-Outlaw-1.jpg"
+	},{
+		"name": "Rocket League Sideswipe Redeem Codes",
+		"description": "With its popularity reaching a new high each day, the game would surely reward us with more redeem codes in the future. We hope that they bring some special codes soon so that we can enjoy these insane effects even while playing a match.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2021/12/Rocket-League-Sideswipe-redemption-center.jpg"
+	},{
+		"name": "customize vehicles in Rocket League Sideswipe",
+		"description": "Like the console version, Rocket League Sideswipe delivers a collection of cosmetics to apply to your cars. These items can be purchased through the Shop tab or obtained via the Rocket Pass. Although there are many ways to unlock them, a few steps need to be made before they can be added to your vehicle.",
+		"img": "https://assets.gamepur.com/wp-content/uploads/2021/11/30163138/image_123986672-2-Cropped-2.jpg"
+	},{
+		"name": "BOOST BUTTON IN ROCKET LEAGUE SIDESWIPE",
+		"description": "https://www.okaygotcha.com/ezoimgfmt/blogger.googleusercontent.com/img/a/AVvXsEgse5EjXPK7eRe4DiEI82WO4tq7CNrd9JxqEsadi0i6wpKIQ9xWBOynO4Fo9hCyE5QwuDvS8u8rWsqYLz0ryt1k_iXk5UPd_2FOBowXRCrGsgngBUEh66OfPPT6ZHTDOXT3rOtqo6dQXV-1KtR0yiPEnbZtoQgioVxKwAV83BJ9Z0vg7lrCuejqkkB8gA=s16000?ezimgfmt=rs:748x420/rscb1/ng:webp/ngcb1",
+		"img": " Epic Games has thought of you and allows you to add a third button. To do this, you need to go to options, then game settings, then command customization . Once there you will see a third button appear, click on it and activate it."
+	},{
+		"name": "Best Settings",
+		"description": "https://cdn.brgeeks.com/wp-content/uploads/2021/12/Screenshot_20211202-173232_RL-Sideswipe-2048x970.jpg",
+		"img": "While the game is easy to pick up, it is hard to master. Paying attention to the game’s settings can help you increase your skill beyond your opponents. Doing so will also result in winning more games and having a good rank. With that said, let’s get started and find out the best Rocket League Sideswipe settings."
+	},{
+		"name": "Increase Aerial Speed In Rocket League Sideswipe",
+		"description": "Just go into free play, then click settings, then show options and tick the box that reads unlimited boost in free play and that’s it.",
+		"img": "https://gamertagzero.b-cdn.net/wp-content/uploads/2021/12/Screenshot-11.png"
+	},{
+		"name": "Spinning",
+		"description": "The only way to actually spin inside swipe is to double-tap the joystick, this will rotate you until you let go which will put your car back to normal.",
+		"img": "https://i0.wp.com/mobilegaminghub.com/wp-content/uploads/2021/12/Rocket-League-SideSwipe-2.jpg?w=1280&ssl=1"
+	},{
+		"name": "Faceoff",
+		"description": "When going for any 50-50 or Face-Off make sure to use the fast aerial button so you can get there faster than your opponent.",
+		"img": "https://i0.wp.com/mobilegaminghub.com/wp-content/uploads/2021/12/Rocket-League-SideSwipe-7.jpg?w=1280&ssl=1"
+	},{
+		"name": "Power of Joystick",
+		"description": "There is no limit how fast you can move your car in a circle, the joystick can be moved as fast as your finger can go.",
+		"img": "https://i0.wp.com/mobilegaminghub.com/wp-content/uploads/2021/12/Rocket-League-SideSwipe-5.jpg?w=1280&ssl=1"
+	},{
+		"name": "Rocket League Sideswipe Season 1 Rocket Pass rewards",
+		"description": "There are 50 different rewards to unlock in the Rocket League Sideswipe Season 1 Battle Pass. Things start off very nicely at level one, where you unlock the Diestro Exotic Car Body.",
+		"img": "https://images.immediate.co.uk/production/volatile/sites/3/2021/12/Rocket-League-Sideswipe-Rocket-Pass-rewards-c8647a0.jpg?webp=true&quality=90&resize=620%2C413"
+	},{
+		"name": "PLAY ROCKET LEAGUE SIDESWIPE WITH CONTROLLER",
+		"description": "You can play Rocket League Sideswipe with any controller that is compatible with your device. The first thing that you need to do is connect your mobile to the controller via Bluetooth. Then, open Rocket League Sideswipe and you must be able to use your controller to navigate into the game.",
+		"img": "https://play-lh.googleusercontent.com/zyFfLxdMhFsKQgaEh1nUlzzF-ymE2JLApOzfitzLfmOnTth6rxc3-H8cUFHuKc5klViY"
+	},{
+		"name": "secret moves in Rocket",
+		"description": "There are a few secret moves in Rocket League Sideswipe. The two most interesting ones are named after colors, because they change the color of the ball when performed successfully in the arena.",
+		"img": "https://play-lh.googleusercontent.com/xPFx1g8xgEXi7YvWCkiTcP8_ptmSbzN-gOiLtskpeVjNGgtSWlgsfqE7_P2tpFchrdws=w300-rw"
+	},
+	{
+		"name": "Enrollment Process",
+		"description": "If you want to play this game,  then you will need to enroll for the same, and here is how you can do it.  You have to open Google Play Store and type Rocket League Sideswipe Alpha Test,  on the search bar. You have to open the test app,  where you would be able to find an option to request access.",
+		"img": "https://askgamer.com/wp-content/uploads/2021/03/Rocket-League-Sideswipe-Guide-on-Access-Alpha.jpg"
+	},
+	{
+		"name": "Rocket League Sideswipe controller not working fix",
+		"description": "ocket League Sideswipe features much of the same environment in a 2D format. Though you can still pull some of the same maneuvers you can do on the regular version of the game, Rocket League Sideswipe plays differently and players will need to get used to the controls if they’re looking to climb up the game’s ranked ladder.",
+		"img": "https://cdn-www.gamerevolution.com/assets/uploads/2021/12/RLSS1.jpg"
+	},{
+		"name": "How to get Titanium White Octane in Rocket League Sideswipe",
+		"description": "Sideswipe has released its iteration of the Rocket Pass, and whilst some beloved items have made their way to the pocket version of car soccer, plenty of ol’ reliables are still missing from the mobile game.",
+		"img": "https://www.ginx.tv/uploads2/Rocket_League/pasted_image_0-651.png?ezimgfmt=rs:708x715/rscb5/ng:webp/ngcb5"
+	},{
+		"name": "Rocket League Sideswipe Android Requirements",
+		"description": "Rocket League Sideswipe also throws the same error whenever players with low-end smartphones try to download the game. To avoid such issues, first, make sure you meet the device requirements. ",
+		"img": "https://www.earlygame.com/uploads/images/_imageBlock/52682/rocket-league-side-swipe-gameplay.jpg"
+	},{
+		"name": "CHOOSE THE PERFECT JOYSTICK.",
+		"description": "Just like we suggested for the buttons, set the weight of the joystick to 50%. A larger joystick would occupy space for impossible work. The Joystick Anchor determines how much a joystick moves from the center. Take it up when you’re up to 15 degrees.",
+		"img": "https://www.ginx.tv/uploads2/Rocket_League/211202-132609.png?ezimgfmt=ng%3Awebp%2Fngcb5%2Frs%3Adevice%2Frscb5-1"
+	},{
+		"name": "The game modes",
+		"description": "as its name suggests, the duel is played 1 against 1. In Rocket League Sidesweep 2D arena, your objective is to score a goal in the opposing camp on the left of the screen, while protecting yours, on the right of the screen.",
+		"img": "https://image.jeuxvideo.com/medias-md/163786/1637858582-3512-capture-d-ecran.jpg"
+	},{
+		"name": "Challenges",
+		"description": "The challenges are divided into 2 categories: weekly challenges and season challenges. As the names suggest, these challenges are only available for one limited time. You can find examples of tasks to perform to validate these challenges",
+		"img": "https://image.jeuxvideo.com/medias-sm/163786/1637858642-1588-capture-d-ecran.jpg"
+	},{
+		"name": "Rocket League Sideswipe Kickoff ",
+		"description": "The second-best kickoff in Rocket League Sideswipe will make your opponents mad. This is the fake kickoff, it is as simple as it sounds. Drive toward the ball and then turn around before you get too close, so your opponents hit the ball directly back into you",
+		"img": "https://image.jeuxvideo.com/medias-md/163956/1639559499-5579-capture-d-ecran.jpg"
+	},{
+		"name": "wide variety of rewards",
+		"description": "There aren’t many different challenges, but that doesn’t mean they are easy. Five in number, each of them will give you access to rewards in Fortnite and Rocket Sideswipe, and they can be completed in any order. You will find below, the list of the five challenges and the rewards to recover.",
+		"img": "https://image.jeuxvideo.com/medias-sm/161661/1616611799-8442-capture-d-ecran.png"
+	},
+	]
