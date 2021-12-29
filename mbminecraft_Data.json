@@ -190,7 +190,7 @@
 	},{
 		"name": "craft a door and a chest",
 		"description": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-basic-recipe-03.jpg",
-		"img": ""
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-basic-recipe-03.jpg"
 	},{
 		"name": "Exploring The World",
 		"description": "At this point, you should now have all the basic gear to survive. You will have a home, a bed, tools, and a way to cook food and store items. At this point, it’s time to start collecting better gear.",
@@ -274,10 +274,10 @@
 	},{
 		"name": "Paper",
 		"description": "The whole deal with Minecraft is that it is, essentially, a creation game. Yes, combat and survival make up a good deal of the gameplay. But refusing to craft anything sort of puts you at a disadvantage. Practically anything you need, you have to craft. ",
-		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/paper.jpg"
+		"img": "https://progameguides.com/wp-content/uploads/2021/10/Minecraft-What-is-in-The-Wild-Update-in-Minecraft-Mangrove-Swamp.jpg"
 	},{
-		"name": "A piston plays a vital piece in many craftable Minecraft mechanisms. It’s a basic building block without which bigger machine blocks would not function. Here’s the piston recipe",
-		"description": "",
+		"name": "torches",
+		"description": "A piston plays a vital piece in many craftable Minecraft mechanisms. It’s a basic building block without which bigger machine blocks would not function. Here’s the piston recipe",
 		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/piston.jpg"
 	},{
 		"name": "Redstone Comparator",
