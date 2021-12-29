@@ -1,1 +1,311 @@
-[
+[{
+		"name": "Minecraft guide",
+		"description": "Having a Minecraft guide to hand can really help you out, whether you're planning on constructing your own world within the game or just going on an adventure. It's been around for a long time now and has expanded into many different facets, so keeping on top of all the different options and understanding how everything works can be tricky, and that's why we're here to help by getting you up to speed on all the required Minecraft knowledge.",
+		"img": "https://cdn.mos.cms.futurecdn.net/HMrXoPjJa8vrnzEf5W6dV4-1024-80.jpg.webp"
+	},
+	{
+		"name": "Play for free",
+		"description": "There's dozens of versions of the game available on pretty much every platform imaginable, and now you can even play Minecraft for free in your browser. It's a fairly basic rendition without many of the features, but if you're on a tight budget or looking for a quick distraction then there's no better price than free",
+		"img": "https://cdn.mos.cms.futurecdn.net/QdBG9qzF8xFUojHC4BFT2V-970-80.jpg.webp"
+	},{
+		"name": "Commands and cheats",
+		"description": "If you want to fully take control of your created world, then using Minecraft commands and cheats will let you do just that. We've got all the codes you need so you can teleport, set the time and weather, spawn items and entities, and a whole lot more.",
+		"img": "https://cdn.mos.cms.futurecdn.net/v6XoEzDajGRMWNeLY5NMSb-970-80.jpg.webp"
+	},{
+		"name": "Best servers",
+		"description": "If you want to experience whole new adventures in blocks, then visiting the best Minecraft servers can transport you to worlds inspired by Grand Theft Auto, Pokemon, Game of Thrones, and more.",
+		"img": "https://cdn.mos.cms.futurecdn.net/6m7ABPdWV5n9TCAK4KvbS6-970-80.jpg.webp"
+	},{
+		"name": "Realms",
+		"description": "If you want to manage your own personal multiplayer server for up to ten players, then Minecraft Realms lets you build and play with friends in private games. With a Realms Plus subscription you also get regular content drops of new maps, character skins, and mini-games to check out.",
+		"img": "https://cdn.mos.cms.futurecdn.net/Gj4YUzPzpVVJaG2rhKKz3h-970-80.jpg.webp"
+	},{
+		"name": "Best seeds",
+		"description": "Seeds determine the layout of the land in your world, and different environments can completely change your gameplay experience. We've gathered the best Minecraft seeds so you can explore a giant mansion, survive a shipwreck on an island, or any number of other adventures.",
+		"img": "https://cdn.mos.cms.futurecdn.net/NTqKsZDbo8fg9SFenYMNbK-970-80.jpeg.webp"
+	},{
+		"name": "Best mods",
+		"description": "If you want to tweak the actual gameplay mechanics for a different experience, then installing the best Minecraft mods will let you rework how the game functions. Choices include introducing fresh biomes, new wild animals, and even sending you into space.",
+		"img": "https://cdn.mos.cms.futurecdn.net/eiXe2HaeDqfrXTrzsuQuFD-970-80.jpg.webp"
+	},{
+		"name": "Best shaders",
+		"description": "If you want your game to look as great as possible, then installing the best Minecraft shaders will help you achieve this. Make your water shinier, add light rays and lens flares, improve shadows, and generally turn your worlds into visual masterpieces that are a feast for the eyes.",
+		"img": "https://cdn.mos.cms.futurecdn.net/qcwpmsck22hhpe7ApjnrrP-970-80.png.webp"
+	},{
+		"name": "Best skins",
+		"description": "Every player will be familiar with Steve and Alex, the default skins in the game, but sometimes you want to mix things up with new characters. The best Minecraft skins let you do this, so you can become mighty Thanos, Jedi warrior Yoda, and even Homer Simpson – d'oh!",
+		"img": "https://cdn.mos.cms.futurecdn.net/Lx8UE9gkmT3BzhEJutwGsX-970-80.jpg.webp"
+	},{
+		"name": "Best texture packs",
+		"description": "Bored with how the standard blocks and objects look in your world? Then install some of the best Minecraft texture packs and you can add in flowing grass, rippling water, and even photorealistic trees.",
+		"img": "https://cdn.mos.cms.futurecdn.net/eQRmhdPgZ9PR8uXgaA8nd7-970-80.jpg.webp"
+	},{
+		"name": "Nether",
+		"description": "If you're thinking of delving down into the underworld, then we've got details on how the Minecraft Nether update has made some changes to the way things work below. We can also show you how to get Minecraft Netherite and what to do with it, including how to craft Minecraft Netherite tools and a full set of Minecraft Netherite armor.",
+		"img": "https://cdn.mos.cms.futurecdn.net/iuKdqxc5M6AFEnvQjcvkwn-970-80.png.webp"
+	},{
+		"name": "Enchanting",
+		"description": "If you want to improve your weapons and items, then applying Minecraft enchanting to them will give them a significant boost. Our guide will show you how to construct an Enchanting Table, and configure it to get the highest level of enchantment possible",
+		"img": "https://cdn.mos.cms.futurecdn.net/wPeFEkGJJpnykfTvxQXgwB-970-80.jpg.webp"
+	},{
+		"name": "Build the best house",
+		"description": "Setting yourself up with a great Minecraft house is very important, as it provides you with a safe refuge away from any creatures and a place to store all of your hard-earned gear and treasure. Plus, you can show off your creative flair by making your home as impressive as you like.",
+		"img": "https://cdn.mos.cms.futurecdn.net/EdzruRzSkYLqnavFKKcjGa-970-80.jpg.webp"
+	},{
+		"name": "Tame a fox",
+		"description": "If you've spotted one of these nocturnal creatures in your world, you may be wondering how to tame a fox in Minecraft, so we've got all the details on how to make them your new furry pals.",
+		"img": "https://cdn.mos.cms.futurecdn.net/TV6V9JGbp7zystYnQfuAxG-970-80.jpg.webp"
+	},{
+		"name": "Punch A Tree",
+		"description": "Starting out you have nothing, no tools, no weapons, no shelter, nothing. The first thing you need to do is arm yourself with some tools. To do this, walk up to the nearest tree and start punching it until wood drops, don’t worry it won't harm your character.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Punching-A-Tree.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Stone Age",
+		"description": "Using this Crafting Bench build yourself a wooden pickaxe. To do this craft a set of sticks and use the sticks with wood planks to craft the pickaxe. It’s highly recommended you have a crafting guide pulled up as there are a lot of things to craft and it’ll spare you hours of trial and error to figure out what you can and can’t build.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Mining-Stone.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Build A Shelter",
+		"description": "Nightfall is very dangerous in Minecraft as there are monsters known as mobs that come out at night to attack you. Later these mobs will become another cog in your machine to progress, but in the beginning, they are your biggest threat.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Shelter.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Find Some Food",
+		"description": "Now that you have a shelter to keep yourself alive at night your next issue is going to be keeping your character properly nourished. Every action in the game, like mining, running, healing, and jumping, is going to cost you hunger. When the bar is full your character will naturally heal from any injuries, but lose a little hunger and you stop healing.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Cow.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Light It Up",
+		"description": "The monsters in the game hate light, which is why they don’t appear until night time. Keeping the inside of your shelter lit will prevent any mobs from spawning inside. To do this you need torches",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Torches.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Find A Cave",
+		"description": "With a basic shelter, a supply of food, tools, and torches your next step is to find a cave. Caves are naturally created tunnels and crevices in the environment that extend underground. Caves vary in size from small rooms barely large enough for you to stand in to large complex tunnels that reach the bottom levels of the game’s underground.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Cave.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Gather Raw Materials",
+		"description": "By now you’ve probably had to replace your stone tools a few times and would like to upgrade to something better. Your next technological tier is iron which is primarily found underground. If you found a decent cave complex this makes this part very easy, if not you’re going to have to dig your way down and build a mine.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Iron-Ore.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Begin The Iron Age",
+		"description": "Once you have enough iron ingots craft the following items in this order; pickaxe, sword, bucket, helmet, boots, gauntlets, cuirass, axe, and maybe a shovel. Iron tools are much more durable than stone tools and much more efficient. Depending on your iron stores you might have to resort to stone tools every now and then.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Iron-Armor.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Start A Farm",
+		"description": "By now you should be running low on food supplies and will need to start planning for a more sustainable solution then hoping for apples to drop or eradicating the local wildlife. This is where that hoe you built before comes in handy.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Wheat.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Breed Animals",
+		"description": "Starting a crop farm is one thing, but in order to get your hands on better food that will keep you satiated for a longer time and restore more hunger, animals need to be bred. There are a few options out there, including cows, sheep, pigs, and chickens. Whatever is closest is usually the best to go for.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Cow-Farm-Cropped.jpeg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Find Diamonds",
+		"description": "Diamond is among the rarest ores in the game, and the most useful as well. From diamond, the player can create diamond grade tools and gear, which have the highest damage, durability, and protection.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Diamonds-Cropped.jpeg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Upgrade Home Security",
+		"description": "At this point, the player most likely has a wooden house or shack surrounded by a few torches and whatever farms they've built. However, mobs, especially creepers and skeletons, might still be an issue. Spiders also have the ability to climb to the roof of a building, which can make for some unwanted surprises.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Stone-House-Cropped.jpeg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Build A Nether Portal",
+		"description": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Nether-Portal-Frame-Cropped.jpeg?q=50&fit=crop&w=740&dpr=1.5",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Nether-Portal-Frame-Cropped.jpeg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Find A Nether Fortress",
+		"description": "The Nether in its current state is an unforgiving and monotonous cave-like environment with tons of lava lakes, drops, and ghasts. It will be filled with zombie pigmen as well, though they won't attack the player unless provoked, in which case each nearby pigman will swarm the player.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Nether-Fortress-Cropped.jpeg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Plan Your Next Steps",
+		"description": "What you do from here is totally up to you and your imagination. There are dozens of biomes to discover, other dimensions to explore, a variety of mobs to fight, machines to build, resources to gather, all enabling you to build some really amazing things. Take a moment to plan your next steps and have fun exploring this wonderful game.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Minecraft-Large-Castle-And-Grounds.jpg?q=50&fit=crop&w=740&dpr=1.5"
+	},{
+		"name": "Game Modes",
+		"description": "Creative: A sandbox mode for those who only want to use Minecraft as a digital Lego set. Players are given unlimited resources, and the ability to fly around the world freely, not subjected to the game physics or threats from enemies.Survival: The real game mode, in which various enemies will spawn in the dark and attack the player. Resources are limited, food must be eaten, and death results in dropping your items (though they can usually be recovered if you return after respawning).Hardcore: This is like Survival, only really, really hard. The map is deleted when the player dies.Adventure: A special mode that was recently added, which places restrictions on tools, such that a spade is needed to dig dirt or a pickaxe needed to mine stone",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/seriously-640x474.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Crafting",
+		"description": "Crafting is central to playing Minecraft, and it's useful to learn how to do it before joining your first game. Crafting means taking one or more raw ingredients, and transforming them into something. If the recipe involves more than one ingredient, the ingredients must be placed in a specific pattern. Luckily, the pattern somewhat resembles the final product, so it's not as difficult to remember the recipes as you might think (which is good, because there are thousands). Here's some examples for basic tools.",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/tools-360x500.png?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Construction",
+		"description": "The building construction aspect of Minecraft is really so vast that a guide would be pointless. If this is the element of the game that you want to pursue, you can find master classes in building on YouTube from players far more impressive than me.",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/view-from-the-castle-640x360.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "The First Night",
+		"description": "The first night in Minecraft is curiously one of the hardest. You'll start with nothing (though there is an option to have a small starting chest of goodies, if you wish - I won't judge), and you must establish a base of operations before night falls and the nasties come out to play (mobs). If you don't have somewhere to hide, they'll probably kill you. To do this, you'll need tools. You have 10 minutes of real world time to do all this.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-02.jpg"
+	},{
+		"name": "Combat",
+		"description": "The Enderman is a tall, slender black creature with pink eyes, which hates being looked at directly. If you spot them during the day, don't panic as they aren't naturally aggressive. If you stare at them, you're going to die, and they're almost impossible to kill when you're a beginner since they teleport. Just don't look at them, okay?",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/creeper-explosion-640x360.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Skeletons",
+		"description": "are also dangerous early in the game, particularly if you come across 2 or more of them at once. If you don't have a bow and arrow, hide around a corner and lure them to you, picking them off at close range. Each time they hit, you'll be pushed back a little, so try not to run at them from a distance. If you do die in survival mode, it's not a complete tragedy: your items will fall to the floor, and you can pick them up again after you respawn.",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/death-640x360.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Mining",
+		"description": "As the name would suggest, mining is kind of a central aspect to Minecraft. In fact, the world extends about 100 layers downward. Although you could play the game by ignoring the mining aspect completely and simply use stone tools, you'll be missing out on a lot. To build better, more durable tools, you need to dig down - deep, deep down. You can start with just a stone pickaxe - but be careful: while a stone tool is fine for extracting iron and coal, attempting to mine anything else (such as diamond or gold) will result in nothing being produced and the ore will be wasted. To mine other blocks, you need at least an iron pickaxe",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/my-first-diagonal-mine-640x360.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Food Supply And Farming",
+		"description": "Farming early on in the game is essential if you don't want to be forced to go out hunting every time just to eat. If you're desperate - chickens, pigs, and cows will all provide some good sustenance, but need to be cooked.",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/early-wheat-farm-640x360.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Animal Rearing",
+		"description": "Chickens are probably your best bet as the first animal to capture and rear. Use seeds, obtained at random by destroying long grass or from your established wheat farm, to lure at least two chickens back to a fenced area. To lure animals, simply equip the relevant item in your hand and walk near them - they will follow, but may go astray if it’s long way. As well as being edible when cooked (4 food), chickens also lay eggs. You could go the boring route and cook the eggs into a cake (or pumpkin pie), but it's a lot more fun to throw the eggs instead - and there’s a 1 in 32 chance that a chick will emerge!",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/egg-hole-640x360.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Playing with the Oculus Rift",
+		"description": "At the time of writing, it works with both dev kit 1 and 2, though positional tracking has not yet been implemented. You may also wish to downgrade a number of graphical options from within the OptiFine menu to increase performance, as it's a lot more demanding than regular Minecraft.",
+		"img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/herding-animals-640x360.jpg?q=50&fit=crop&w=750&dpr=1.5"
+	},{
+		"name": "Get the basics out of the way",
+		"description": "Every person who plays Minecraft will have to carry out the same basic tasks when they first start a game: punch some trees, expertly shape the wood fragments into a functional and portable workbench, and masterfully craft functional tools from the remains. Trust me, it's not as hard as it sounds in Minecraft.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-05.jpg"
+	},{
+		"name": "look for the nearest trees",
+		"description": "Once you've spawned into your world, look for the nearest trees. You'll need a supply of wood to get started.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-08.jpg"
+	},{
+		"name": "punch some trees until they drop logs",
+		"description": "Using your bare hands, punch some trees until they drop logs. Four or five will do the trick in the beginning, so punch down a whole tree.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/02/minecraft-basic-recipe-01.jpg"
+	},{
+		"name": "Explore and find shelter",
+		"description": "Armed with a pickaxe and a sword, it's time to explore your area a little bit. Unless you, unfortunately, spawned on a desolate island or in the middle a vast desert, you shouldn't stray too far from the place you spawned. Until you've found a safe place and have slept in a bed, dying will mean resetting at your spawn point. Moving too far away could mean a longer trek should the worst happen, and a lower chance of successfully getting your stuff back.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-06.jpg"
+	},{
+		"name": "Gather resources for the shelter",
+		"description": "Now that you've found your area to hang out for a while, it's time to gather some resources and supplies. You want to be prepared for the first night at minimum, but it doesn't hurt to get a little extra to help get a head start for the future. This means making sure you have the ability to build and light your shelter, sleep through the night, and have food to prevent you from starving.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-07.jpg"
+	},{
+		"name": "Bunker down for the night",
+		"description": "Now that you've gathered as much as you can, you've probably noticed that the sun is beginning to dip into the distant horizon. This is your cue to hightail it back to your makeshift shelter, where you'll make some last-minute adjustments and prepare yourself for the first night, and every night to follow.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-04.jpg"
+	},{
+		"name": "Retreat back to your shelter before night comes.",
+		"description": "Retreat back to your shelter before night comes. You'll want to get back to your shelter the moment you notice the sky beginning to darken.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-09.jpg"
+	},{
+		"name": "craft a bed.",
+		"description": "Finally, use your crafting table to craft a bed. A bed is crafted using three pieces of wool and three wood planks. The three pieces of wool should be the same color, but consider that the color of the wool dictates what the color of your bed will be.",
+		"img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-first-night-10.jpg"
+	},{
+		"name": "craft a door and a chest",
+		"description": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2020/03/minecraft-basic-recipe-03.jpg",
+		"img": ""
+	},{
+		"name": "Exploring The World",
+		"description": "At this point, you should now have all the basic gear to survive. You will have a home, a bed, tools, and a way to cook food and store items. At this point, it’s time to start collecting better gear.",
+		"img": "https://www.online-tech-tips.com/wp-content/uploads/2019/11/minecraft-block.png"
+	},{
+		"name": "Build a Shelter",
+		"description": "This is the single most important thing for your survival in the game. As you begin your journey in the world of Minecraft, we suggest you as a guide to first build your shelter before anything else. As the game follows a proper time. During nightfall, one should be safe from all the mobs (explained in Step 6) to save themselves from dying.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/04/Screenshot_20200424-161104-1024x512-1.jpg"
+	},{
+		"name": "Hunt for Food",
+		"description": "Food is the most important factor for your survival as this will help you replenish your health and will make sure you can run. A small meter alongside your health bar is the hunger meter. If empty, it will affect your health and sprint speed.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/04/minecraft-farm-animals-cow-pig-chicken-sheep-121416.jpg"
+	},{
+		"name": "Make a Crafting Table",
+		"description": "A crafting table basically unlocks the ability to craft items by combining two or more materials of the different or the same kind. To make a crafting table you need",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/04/Screenshot_20200424-160540-1024x512-1.jpg"
+	},{
+		"name": "Keep Mining",
+		"description": "As the name of the game goes, mining is your primary profession and the game is filled with many precious materials to explore and caves to conquer. Some of these useful materials in the sequence of rarity ",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/04/FLHI56UHURHRYYC.LARGE_.jpg"
+	},{
+		"name": "Locate nearby Villages",
+		"description": "The game might seem lonely at times with you only being the one with brains, but thankfully the creators of the game have made villages that spawn randomly on your map",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/04/vil-1024x576-1.jpg"
+	},{
+		"name": "Travel and Explore",
+		"description": "Staying at the same place as your shelter will get boring in a few days. Minecraft’s map is roughly 7 times that of our planet Earth and should be explored as much as possible.",
+		"img": "https://gamingonphone.com/wp-content/uploads/2020/04/biome.jpeg"
+	},{
+		"name": "Treasure chests",
+		"description": "In both editions of Minecraft, you can find saddles in treasure chests at these locations: dungeons, bastion remnants, desert temples, End cities, jungle temples, Nether fortresses, strongholds, and villages",
+		"img": "https://i.insider.com/607ddfe674da0300181e2929?width=1000&format=jpeg&auto=webp"
+	},{
+		"name": "Fishing",
+		"description": "You can fish in any body of water, and whenever you do, there's a chance that you'll catch treasure instead of fish. However, by default there's a less than 1 percent chance of reeling in a saddle.",
+		"img": "https://i.insider.com/607de0ee74da0300181e292f?width=1000&format=jpeg&auto=webp"
+	},{
+		"name": "Trade with a Master Leatherworker",
+		"description": "If you've accrued a good deal of emeralds, trade them with your friendly village Leatherworker in exchange for a saddle. If you can't find a Leatherworker in the village, you can turn a non-employed villager into one by plopping a cauldron in their path.",
+		"img": "https://i.insider.com/607de1fe44f454001920790e?width=1000&format=jpeg&auto=webp"
+	},{
+		"name": "Kill a Ravager",
+		"description": "Finally, if you like the thrill of the hunt, you can kill a Ravager. These are strong enemies that look like bulls, and will accompany pillagers on raids.",
+		"img": "https://i.insider.com/607de2ab74da0300181e2939?width=1000&format=jpeg&auto=webp"
+	},{
+		"name": "saddle",
+		"description": "There are the obvious options, like horses, donkeys, and mules. Each of these animals can be tamed by repeatedly mounting them until they stop bucking you off — how many times you'll need to do this is randomly decided for each animal. Once they're tamed, (use) the saddle on them and you'll place it on them.",
+		"img": "https://i.insider.com/607debef74da0300181e2969?width=1000&format=jpeg&auto=webp"
+	},{
+		"name": "Using your saddle to ride a pig",
+		"description": "You can get a pig's attention with a carrot. Then, equip the saddle in your hotbar and (use) it on the pig",
+		"img": "https://i.insider.com/607de79a74da0300181e2951?width=1000&format=jpeg&auto=webp"
+	},{
+		"name": "Using your saddle to ride a Strider",
+		"description": "Striders are a newer mob in Minecraft and can be found roaming all across the lava oceans in the Nether. Riding a Strider lets you cross the lava without any danger.",
+		"img": "https://i.insider.com/607de8d844f454001920792f?width=1000&format=jpeg&auto=webp"
+	},{
+		"name": "Dungeon Chests",
+		"description": "The easiest way to obtain a saddle is by looting chests while exploring dungeons. Dungeons are structures that generate naturally in the Overworld, and often contain a mob spawner and up to two chests. Be careful though, as the mobs spawned will be hostile – you have a 50% chance of a zombie, 25% chance of a skeleton, and a quarter of a chance it’s a spider.",
+		"img": "https://images.immediate.co.uk/production/volatile/sites/3/2021/04/Minecraft-Saddle-2a95797.jpg?webp=true&quality=90&resize=620%2C413"
+	},{
+		"name": "Smooth Stone",
+		"description": "Smooth stone blocks are one of those basic building essentials that turn up in practically every recipe – which is why players stock up on mountains of the stuff. Once you know how to make smooth stone blocks in Minecraft, you’ll be well on your way to crafting hundreds of other items.",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/smooth_stone.jpg"
+	},{
+		"name": "Lantern",
+		"description": "It may just be a decoration but youll be amazed by what a lantern can do for your dull bland and dimly-lit house. And it doesn’t take that much to make either just some iron nuggets and a single torch. Heres the full Minecraft lantern recipe",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/lantern.jpg"
+	},{
+		"name": "Stonecutter",
+		"description": "It can be used as an alternative to the crafting table, but only for stone items (hence the name). If you want to make a stonecutter, Minecraft makes it pretty easy to do so.",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/stonecutter.jpg"
+	},{
+		"name": "Potion of Weakness",
+		"description": "Like the Potion of Strength, the Potion of Weakness is a highly sought-after item. But its effect, of course, is the complete opposite of the former. Still, it’s fairly easy to brew in the brewing stand. You just need two ingredients:",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/potion_of_weakness.jpg"
+	},{
+		"name": "Observer",
+		"description": "A Minecraft observer is basically used to detect changes in neighboring blocks. Gathering all the ingredients to craft it can be a bit tricky, but an observer is so incredibly useful to have on-hand, we highly recommend pushing through and crafting it. You will need",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/observer.jpg"
+	},{
+		"name": "Paper",
+		"description": "The whole deal with Minecraft is that it is, essentially, a creation game. Yes, combat and survival make up a good deal of the gameplay. But refusing to craft anything sort of puts you at a disadvantage. Practically anything you need, you have to craft. ",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/paper.jpg"
+	},{
+		"name": "A piston plays a vital piece in many craftable Minecraft mechanisms. It’s a basic building block without which bigger machine blocks would not function. Here’s the piston recipe",
+		"description": "",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/piston.jpg"
+	},{
+		"name": "Redstone Comparator",
+		"description": "Pattern: place the Nether quartz in the center square; fill bottom row with stones, then place Redstone torches around Nether quartz following immediate directions – top, left, right",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/redstone_comparator.jpg"
+	},{
+		"name": "Armor Stand",
+		"description": "A lot of Minecraft decorations are made using the loom. Just like a crafting table, a loom allows you to create new items – in this case, decorations – by combining ingredients. For instance, you can combine a banner, a dye, and a banner pattern to create your own unique, customized banner.",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/loom.jpg"
+	},{
+		"name": "Stone Pressure Plate",
+		"description": "Stone pressure plates in Minecraft do pretty much what you’d expect them to do. They’re pretty easy to make and pretty nifty to have around (especially if you’re in the habit of opening doors from a distance). The recipe is pretty simple, too",
+		"img": "https://i0.wp.com/codakid.com/wp-content/uploads/2020/10/stone_pressure_plate.jpg"
+	},{
+		"name": "Mud Blocks ",
+		"description": "You’ll also notice that the ground in the mangrove swamp biome isn’t made up of dirt blocks. It’s actually covered in mud. You can create new Mud Blocks by dumping a water bottle on dirt. You can also put mud blocks on top of the new dripstone from the Dripstone Cave biome, which will dry out your mud block and turn it into clay. A renewable source of clay—neat! Now you’ll be able to farm your own instead of going diving in every single water source you stumble across. ",
+		"img": "https://cdn.mos.cms.futurecdn.net/LtyDnXDcjNWkqeFHUZNAwe-970-80.jpg"
+	},{
+		"name": "Allay ",
+		"description": "The Allay is a helpful little mob that was chosen by Minecraft players during this year’s Minecraft Live poll. It’s a very cute flying blue creature that loves collecting things. If you give it a particular item, it will grab similar ones nearby and bring them back to you. The Allay also loves music, so you can also use a Note Block to give it a different drop location for its items. ",
+		"img": "https://cdn.mos.cms.futurecdn.net/tCZYKfeT6cX3FcAmiSpo2H-970-80.jpg"
+	},{
+		"name": "Mangrove Swamps",
+		"description": "A new surface biome called Mangrove Swamps is being added. These are large areas of marshland covered mostly in low water and mangrove trees, which when cut down, provides a new wood type to be used for crafting. These swamps will also be home to the new mud block type, which occur naturally in the mangroves but can also be created by saturating blocks of dirt with water. These mud blocks can be used to create clay with the help of another block type being added called the dripstone.",
+		"img": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/10/Minecraft-The-Wild-Update-2.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5"
+	},{
+		"name": "The Deep Dark",
+		"description": "While the Deep Dark holds potentially great new loot, it also comes with a great and terrifying danger. The Warden is a new, terrifying mob that dwells in the Deep Dark cities and can kill players with just one hit unless they're equipped with Netherite armor. The developers have even advised fans not to try fighting the Warden if it can be helped. Fortunately, encounters with them are survivable because of a key vulnerability: it's blind. As long as players don't make any noise, the Warden won't try to attack. It can also be distracted by firing an arrow or snowball somewhere, providing a chance to escape.",
+		"img": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/10/Minecraft-The-Wild-Update-3.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5"
+	},
+]
